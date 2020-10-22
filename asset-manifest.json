@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/bigrichman.github.io/static/css/main.04d54a83.chunk.css",
-    "main.js": "/bigrichman.github.io/static/js/main.1942fa79.chunk.js",
-    "main.js.map": "/bigrichman.github.io/static/js/main.1942fa79.chunk.js.map",
-    "runtime-main.js": "/bigrichman.github.io/static/js/runtime-main.1808eb34.js",
-    "runtime-main.js.map": "/bigrichman.github.io/static/js/runtime-main.1808eb34.js.map",
-    "static/js/2.4b47b73b.chunk.js": "/bigrichman.github.io/static/js/2.4b47b73b.chunk.js",
-    "static/js/2.4b47b73b.chunk.js.map": "/bigrichman.github.io/static/js/2.4b47b73b.chunk.js.map",
+    "main.js": "/bigrichman.github.io/static/js/main.d0c52344.chunk.js",
+    "main.js.map": "/bigrichman.github.io/static/js/main.d0c52344.chunk.js.map",
+    "runtime-main.js": "/bigrichman.github.io/static/js/runtime-main.94a8b55d.js",
+    "runtime-main.js.map": "/bigrichman.github.io/static/js/runtime-main.94a8b55d.js.map",
+    "static/js/2.cbebc919.chunk.js": "/bigrichman.github.io/static/js/2.cbebc919.chunk.js",
+    "static/js/2.cbebc919.chunk.js.map": "/bigrichman.github.io/static/js/2.cbebc919.chunk.js.map",
     "index.html": "/bigrichman.github.io/index.html",
-    "precache-manifest.9d704da95ee13aa3c013a019b30d8631.js": "/bigrichman.github.io/precache-manifest.9d704da95ee13aa3c013a019b30d8631.js",
+    "precache-manifest.e646b29129dc149fba95b4dcf37510c5.js": "/bigrichman.github.io/precache-manifest.e646b29129dc149fba95b4dcf37510c5.js",
     "service-worker.js": "/bigrichman.github.io/service-worker.js",
     "static/css/main.04d54a83.chunk.css.map": "/bigrichman.github.io/static/css/main.04d54a83.chunk.css.map",
-    "static/js/2.4b47b73b.chunk.js.LICENSE": "/bigrichman.github.io/static/js/2.4b47b73b.chunk.js.LICENSE",
+    "static/js/2.cbebc919.chunk.js.LICENSE": "/bigrichman.github.io/static/js/2.cbebc919.chunk.js.LICENSE",
     "static/media/App.css": "/bigrichman.github.io/static/media/tester-bg@2x.2a4a2235.png",
     "static/media/ZombiePreview.css": "/bigrichman.github.io/static/media/zombierun.08087132.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1808eb34.js",
-    "static/js/2.4b47b73b.chunk.js",
+    "static/js/runtime-main.94a8b55d.js",
+    "static/js/2.cbebc919.chunk.js",
     "static/css/main.04d54a83.chunk.css",
-    "static/js/main.1942fa79.chunk.js"
+    "static/js/main.d0c52344.chunk.js"
   ]
 }

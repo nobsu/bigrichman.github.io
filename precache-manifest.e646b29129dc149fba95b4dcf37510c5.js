@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "286447f65c22657ebd174cc4af97cc43",
+    "revision": "90f53b05e8ebd3a6a59b9f6db591b7db",
     "url": "/bigrichman.github.io/index.html"
   },
   {
-    "revision": "99b801d56b5eb4b9436b",
+    "revision": "7123d1ed30e0264d7571",
     "url": "/bigrichman.github.io/static/css/main.04d54a83.chunk.css"
   },
   {
-    "revision": "f030033ac5af4c4583f6",
-    "url": "/bigrichman.github.io/static/js/2.4b47b73b.chunk.js"
+    "revision": "b6a321add7501e6c14a3",
+    "url": "/bigrichman.github.io/static/js/2.cbebc919.chunk.js"
   },
   {
     "revision": "6c19783ced6bae75444858dab9dff6e1",
-    "url": "/bigrichman.github.io/static/js/2.4b47b73b.chunk.js.LICENSE"
+    "url": "/bigrichman.github.io/static/js/2.cbebc919.chunk.js.LICENSE"
   },
   {
-    "revision": "99b801d56b5eb4b9436b",
-    "url": "/bigrichman.github.io/static/js/main.1942fa79.chunk.js"
+    "revision": "7123d1ed30e0264d7571",
+    "url": "/bigrichman.github.io/static/js/main.d0c52344.chunk.js"
   },
   {
-    "revision": "a1df4c07c92ebf063510",
-    "url": "/bigrichman.github.io/static/js/runtime-main.1808eb34.js"
+    "revision": "c4da4157730d4212541e",
+    "url": "/bigrichman.github.io/static/js/runtime-main.94a8b55d.js"
   },
   {
     "revision": "fce8c82bf5aa7916e885b3f2f9f67e39",
