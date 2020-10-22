@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "187c6636e440a663441d2d03737c8281",
+    "revision": "ff661e06c745e1cdecdb93d50fe30a3f",
     "url": "/bigrichman.github.io/index.html"
   },
   {
-    "revision": "5ee46c4035ab7d8661c8",
+    "revision": "6b0a255c84f7cd69bc3b",
     "url": "/bigrichman.github.io/static/css/main.04d54a83.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bigrichman.github.io/static/js/2.cbebc919.chunk.js.LICENSE"
   },
   {
-    "revision": "5ee46c4035ab7d8661c8",
-    "url": "/bigrichman.github.io/static/js/main.633035ea.chunk.js"
+    "revision": "6b0a255c84f7cd69bc3b",
+    "url": "/bigrichman.github.io/static/js/main.82ee7e14.chunk.js"
   },
   {
     "revision": "c4da4157730d4212541e",
