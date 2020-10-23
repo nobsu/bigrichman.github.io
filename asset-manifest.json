@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/bigrichman.github.io/static/css/main.c4983017.chunk.css",
-    "main.js": "/bigrichman.github.io/static/js/main.b97a9f91.chunk.js",
-    "main.js.map": "/bigrichman.github.io/static/js/main.b97a9f91.chunk.js.map",
+    "main.css": "/bigrichman.github.io/static/css/main.f2fde887.chunk.css",
+    "main.js": "/bigrichman.github.io/static/js/main.28fdc305.chunk.js",
+    "main.js.map": "/bigrichman.github.io/static/js/main.28fdc305.chunk.js.map",
     "runtime-main.js": "/bigrichman.github.io/static/js/runtime-main.94a8b55d.js",
     "runtime-main.js.map": "/bigrichman.github.io/static/js/runtime-main.94a8b55d.js.map",
     "static/js/2.fb703865.chunk.js": "/bigrichman.github.io/static/js/2.fb703865.chunk.js",
     "static/js/2.fb703865.chunk.js.map": "/bigrichman.github.io/static/js/2.fb703865.chunk.js.map",
     "index.html": "/bigrichman.github.io/index.html",
-    "precache-manifest.a33932e40188637b36f27f23ec2cbe84.js": "/bigrichman.github.io/precache-manifest.a33932e40188637b36f27f23ec2cbe84.js",
+    "precache-manifest.1fe09836ae1a81f9c48c5962240ef898.js": "/bigrichman.github.io/precache-manifest.1fe09836ae1a81f9c48c5962240ef898.js",
     "service-worker.js": "/bigrichman.github.io/service-worker.js",
-    "static/css/main.c4983017.chunk.css.map": "/bigrichman.github.io/static/css/main.c4983017.chunk.css.map",
+    "static/css/main.f2fde887.chunk.css.map": "/bigrichman.github.io/static/css/main.f2fde887.chunk.css.map",
     "static/js/2.fb703865.chunk.js.LICENSE": "/bigrichman.github.io/static/js/2.fb703865.chunk.js.LICENSE",
     "static/media/homebg.jpg": "/bigrichman.github.io/static/media/homebg.40ababd5.jpg",
     "static/media/jumpbg.jpg": "/bigrichman.github.io/static/media/jumpbg.9e280fd0.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.94a8b55d.js",
     "static/js/2.fb703865.chunk.js",
-    "static/css/main.c4983017.chunk.css",
-    "static/js/main.b97a9f91.chunk.js"
+    "static/css/main.f2fde887.chunk.css",
+    "static/js/main.28fdc305.chunk.js"
   ]
 }
