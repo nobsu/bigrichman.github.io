@@ -1,39 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "369325e46840586a1d6e5ca613fba536",
+    "revision": "9a3e9ab67ba233801e91020b6fc1daee",
     "url": "/bigrichman.github.io/index.html"
   },
   {
-    "revision": "ec83a01efaa68f6d6503",
-    "url": "/bigrichman.github.io/static/css/main.34376574.chunk.css"
+    "revision": "46a726e3719d8a13f47d",
+    "url": "/bigrichman.github.io/static/css/main.828fb903.chunk.css"
   },
   {
-    "revision": "42d41bb5d4221dfeb807",
-    "url": "/bigrichman.github.io/static/js/2.2d735312.chunk.js"
+    "revision": "3d52ebe677fe2d5e081c",
+    "url": "/bigrichman.github.io/static/js/2.c1678753.chunk.js"
   },
   {
     "revision": "6c19783ced6bae75444858dab9dff6e1",
-    "url": "/bigrichman.github.io/static/js/2.2d735312.chunk.js.LICENSE"
+    "url": "/bigrichman.github.io/static/js/2.c1678753.chunk.js.LICENSE"
   },
   {
-    "revision": "ec83a01efaa68f6d6503",
-    "url": "/bigrichman.github.io/static/js/main.83d5b771.chunk.js"
+    "revision": "46a726e3719d8a13f47d",
+    "url": "/bigrichman.github.io/static/js/main.ad6a9335.chunk.js"
   },
   {
     "revision": "c4da4157730d4212541e",
     "url": "/bigrichman.github.io/static/js/runtime-main.94a8b55d.js"
   },
   {
-    "revision": "fce8c82bf5aa7916e885b3f2f9f67e39",
-    "url": "/bigrichman.github.io/static/media/homebg.fce8c82b.png"
+    "revision": "40ababd54e5ec87ac83874fddf08430e",
+    "url": "/bigrichman.github.io/static/media/homebg.40ababd5.jpg"
   },
   {
     "revision": "64a6f16c4f5ef7e189e75dfc0a52a25f",
     "url": "/bigrichman.github.io/static/media/homecard@2x.64a6f16c.png"
   },
   {
-    "revision": "a60e2f983f63f99ef76389bcd1ee79ea",
-    "url": "/bigrichman.github.io/static/media/logo.a60e2f98.jpg"
+    "revision": "84b82219920958fe4318c75d17007a58",
+    "url": "/bigrichman.github.io/static/media/jumpbg.84b82219.jpg"
+  },
+  {
+    "revision": "d2ef401e5cf2d8d850baf24c3597c7b8",
+    "url": "/bigrichman.github.io/static/media/logo.d2ef401e.jpg"
   },
   {
     "revision": "41236031fc933b053717ef1760601e36",

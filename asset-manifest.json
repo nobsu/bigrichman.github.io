@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/bigrichman.github.io/static/css/main.34376574.chunk.css",
-    "main.js": "/bigrichman.github.io/static/js/main.83d5b771.chunk.js",
-    "main.js.map": "/bigrichman.github.io/static/js/main.83d5b771.chunk.js.map",
+    "main.css": "/bigrichman.github.io/static/css/main.828fb903.chunk.css",
+    "main.js": "/bigrichman.github.io/static/js/main.ad6a9335.chunk.js",
+    "main.js.map": "/bigrichman.github.io/static/js/main.ad6a9335.chunk.js.map",
     "runtime-main.js": "/bigrichman.github.io/static/js/runtime-main.94a8b55d.js",
     "runtime-main.js.map": "/bigrichman.github.io/static/js/runtime-main.94a8b55d.js.map",
-    "static/js/2.2d735312.chunk.js": "/bigrichman.github.io/static/js/2.2d735312.chunk.js",
-    "static/js/2.2d735312.chunk.js.map": "/bigrichman.github.io/static/js/2.2d735312.chunk.js.map",
+    "static/js/2.c1678753.chunk.js": "/bigrichman.github.io/static/js/2.c1678753.chunk.js",
+    "static/js/2.c1678753.chunk.js.map": "/bigrichman.github.io/static/js/2.c1678753.chunk.js.map",
     "index.html": "/bigrichman.github.io/index.html",
-    "precache-manifest.80de6cab5d9d8c9aeb695b59e4c80123.js": "/bigrichman.github.io/precache-manifest.80de6cab5d9d8c9aeb695b59e4c80123.js",
+    "precache-manifest.1d3df84cccc22b62d5741a60344d988a.js": "/bigrichman.github.io/precache-manifest.1d3df84cccc22b62d5741a60344d988a.js",
     "service-worker.js": "/bigrichman.github.io/service-worker.js",
-    "static/css/main.34376574.chunk.css.map": "/bigrichman.github.io/static/css/main.34376574.chunk.css.map",
-    "static/js/2.2d735312.chunk.js.LICENSE": "/bigrichman.github.io/static/js/2.2d735312.chunk.js.LICENSE",
-    "static/media/homebg.png": "/bigrichman.github.io/static/media/homebg.fce8c82b.png",
+    "static/css/main.828fb903.chunk.css.map": "/bigrichman.github.io/static/css/main.828fb903.chunk.css.map",
+    "static/js/2.c1678753.chunk.js.LICENSE": "/bigrichman.github.io/static/js/2.c1678753.chunk.js.LICENSE",
+    "static/media/homebg.jpg": "/bigrichman.github.io/static/media/homebg.40ababd5.jpg",
     "static/media/App.css": "/bigrichman.github.io/static/media/tester-bg@2x.2a4a2235.png",
+    "static/media/jumpbg.jpg": "/bigrichman.github.io/static/media/jumpbg.84b82219.jpg",
     "static/media/ZombiePreview.css": "/bigrichman.github.io/static/media/zombierun.08087132.png"
   },
   "entrypoints": [
     "static/js/runtime-main.94a8b55d.js",
-    "static/js/2.2d735312.chunk.js",
-    "static/css/main.34376574.chunk.css",
-    "static/js/main.83d5b771.chunk.js"
+    "static/js/2.c1678753.chunk.js",
+    "static/css/main.828fb903.chunk.css",
+    "static/js/main.ad6a9335.chunk.js"
   ]
 }
