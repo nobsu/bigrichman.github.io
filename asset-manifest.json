@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bigrichman.github.io/static/css/main.828fb903.chunk.css",
-    "main.js": "/bigrichman.github.io/static/js/main.ad6a9335.chunk.js",
-    "main.js.map": "/bigrichman.github.io/static/js/main.ad6a9335.chunk.js.map",
+    "main.js": "/bigrichman.github.io/static/js/main.48112bfc.chunk.js",
+    "main.js.map": "/bigrichman.github.io/static/js/main.48112bfc.chunk.js.map",
     "runtime-main.js": "/bigrichman.github.io/static/js/runtime-main.94a8b55d.js",
     "runtime-main.js.map": "/bigrichman.github.io/static/js/runtime-main.94a8b55d.js.map",
     "static/js/2.c1678753.chunk.js": "/bigrichman.github.io/static/js/2.c1678753.chunk.js",
     "static/js/2.c1678753.chunk.js.map": "/bigrichman.github.io/static/js/2.c1678753.chunk.js.map",
     "index.html": "/bigrichman.github.io/index.html",
-    "precache-manifest.1d3df84cccc22b62d5741a60344d988a.js": "/bigrichman.github.io/precache-manifest.1d3df84cccc22b62d5741a60344d988a.js",
+    "precache-manifest.e4df1026452ab19a6e95e827a574a66f.js": "/bigrichman.github.io/precache-manifest.e4df1026452ab19a6e95e827a574a66f.js",
     "service-worker.js": "/bigrichman.github.io/service-worker.js",
     "static/css/main.828fb903.chunk.css.map": "/bigrichman.github.io/static/css/main.828fb903.chunk.css.map",
     "static/js/2.c1678753.chunk.js.LICENSE": "/bigrichman.github.io/static/js/2.c1678753.chunk.js.LICENSE",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.94a8b55d.js",
     "static/js/2.c1678753.chunk.js",
     "static/css/main.828fb903.chunk.css",
-    "static/js/main.ad6a9335.chunk.js"
+    "static/js/main.48112bfc.chunk.js"
   ]
 }
